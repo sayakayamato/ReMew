@@ -1,0 +1,26 @@
+
+
+.card_wrap{
+    background: rgb(148,71,245);
+    background: linear-gradient(90deg, rgba(148,71,245,0.73) 1%, rgba(40,113,255,0.73) 100%);
+    margin: 10px;
+    height: 100%;
+    border-radius: 10px;
+    padding: 16px;
+}
+
+.card_title{
+    font-size: 36px;
+    text-align: center;
+}
+
+
+.card_input_wrap{
+    margin: 0 auto;
+    border: solid 1px white;
+    width: 90%;
+}
+
+.card_input{
+    border-radius: 10px;
+}

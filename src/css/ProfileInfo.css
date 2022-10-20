@@ -1,0 +1,67 @@
+.profile_info{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 25%;
+    margin: 16px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.1); /* 背景色 */
+    border: 1px solid rgba(255, 255, 255, 0.4); /* ボーダー */
+    border-right-color: rgba(255, 255, 255, 0.2);
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    -webkit-backdrop-filter: blur(20px); /* ぼかしエフェクト */
+    backdrop-filter: blur(20px);
+    box-shadow: 0 5px 20px rgba(255, 152, 79, 0.5); /* 薄い影 */
+}
+
+
+.profile_icon{
+    width: 100px;
+    margin: 0 auto;
+    
+}
+
+.profile_name{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.profile_contents{
+    margin: 16px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.2); /* 背景色 */
+    border: 1px solid rgba(255, 255, 255, 0.4); /* ボーダー */
+    border-right-color: rgba(255, 255, 255, 0.2);
+    border-bottom-color: rgba(255, 255, 255, 0.2);
+    border-radius: 15px;
+    -webkit-backdrop-filter: blur(20px); /* ぼかしエフェクト */
+    backdrop-filter: blur(20px);
+    box-shadow: 0 5px 20px rgba(255, 152, 79, 0.5); /* 薄い影 */
+
+}
+
+.profile_tablist{
+    width: 100%;
+}
+.tab{
+    width: 33%;
+}
+
+
+
+.profile_card_button{
+    background: #F2EFE9;
+    border-radius: 20px;
+}
+
+.card_button_wrap{
+    margin: 0 auto;
+}
+
+.card_button_p{
+    text-align: center;
+    font-size: 28px;
+    padding: 20px;
+    
+}
+

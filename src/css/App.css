@@ -1,0 +1,129 @@
+.phone_size{
+    width: 100%;
+    height: 100vh;
+    margin: 0 auto;
+    overflow:  scroll;
+    background: #F4F4F4;
+    color: #704116;
+}
+
+
+.under_nav_bar{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: white;
+    height: 7%;
+    height: 80px;
+}
+
+
+
+.friend{
+    font-size: 40px;
+    margin:  30px;
+    text-align: center;
+}
+
+.friend_component{
+    /* border: 1px solid ; */
+    width: 250px;
+    height: 50px;
+    /* margin- */
+    margin-bottom: 10px;
+    display: flex;
+}
+
+.friend_photo{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    /* background-color: gray; */
+    text-align: center;
+}
+
+.friend_name{
+    margin: 0 auto;
+}
+
+
+.return_button{
+    font-size: 1rem;
+    margin: 16px;
+}
+
+.caterory_name{
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.detail_question{
+    font-size: 1rem;
+    margin-left: 16px;
+    margin-bottom: 16px;
+    list-style: none;
+}
+
+
+.collect_feedback_title{
+    text-align: center;
+    margin: 0 auto;
+    /* margin-left: 10%; */
+    margin-top: 20px;
+}
+.collect_feedback{
+    color: #704116;
+}
+
+.collect_feedback_textarea{
+    margin: 0 auto;
+    width: 80vw;
+    margin-top: 20%;
+    border-color: #704116;
+    background: #E8E8E8;
+    
+}
+
+.collect_feedback_button_div{
+    width: 20vw;
+    margin: 0 auto;
+    margin-top: 15%;
+}
+.collect_feedback_button{
+    width: 20vw;
+    height: 5vh;
+    background: rgb(105,67,255);
+    background: linear-gradient(0deg, rgba(105,67,255,0.45) 1%, rgba(221,124,255,0.45) 100%);
+    border-radius: 10px;
+}
+
+
+.feed_userID{
+    visibility:hidden
+}
+.feed_box{
+    border-radius: 10px;
+}
+.feed_user_name{
+    font-size: 0.5rem;
+}
+.feed_contents_text{
+    margin-top: 2%;
+    font-size: 1rem;
+}
+.feed_add_button{
+    border-radius: 100%;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+        top: 85%;
+        left: 85%;
+    background: rgb(225,40,255);
+    background: linear-gradient(0deg, rgba(225,40,255,0.9) 1%, rgba(245,71,134,0.9) 100%);
+    font-size: 2rem;
+    color: white;
+}
+
+
+
